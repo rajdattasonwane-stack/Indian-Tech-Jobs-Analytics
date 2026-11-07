@@ -12,25 +12,43 @@ Explore company-wise and location-wise hiring patterns
 Build an interactive dashboard for data-driven decision-making
 
 🛠️ Tech Stack
+
 Power BI
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Excel / CSV Data Sources
+
 Data Visualization
 
 📁 Project Structure
+
 Indian-Tech-Jobs-Analytics/
+
 │
+
 ├── PowerBI/
+
 │   └── Indian_Tech_Jobs.pbix
+
 │
+
 ├── Dataset/
+
 │
+
 ├── Screenshots/
+
 │
+
 ├── Docs/
+
 │
+
 └── README.md
+
 
 ✨ Features
 Interactive KPI Cards
