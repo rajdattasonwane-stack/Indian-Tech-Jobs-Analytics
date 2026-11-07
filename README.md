@@ -10,12 +10,14 @@ Identify the most in-demand skills
 Understand salary distributions across roles
 Explore company-wise and location-wise hiring patterns
 Build an interactive dashboard for data-driven decision-making
+
 🛠️ Tech Stack
 Power BI
 Power Query
 DAX (Data Analysis Expressions)
 Excel / CSV Data Sources
 Data Visualization
+
 📁 Project Structure
 Indian-Tech-Jobs-Analytics/
 │
@@ -29,6 +31,7 @@ Indian-Tech-Jobs-Analytics/
 ├── Docs/
 │
 └── README.md
+
 ✨ Features
 Interactive KPI Cards
 Dynamic Filters and Slicers
@@ -65,6 +68,7 @@ Created actionable visual insights from raw job market data.
 
 
 💻 GitHub Repository
+
 👉 Repository Link:
 
 https://github.com/rajdattasonwane-stack/Indian-Tech-Jobs-Analytics
